@@ -1,0 +1,20 @@
+# Site settings
+author: Jennifer Beaver
+title: 
+header-img: img/home-bg.png
+email: jen.lee.beaver@gmail.com
+copyright_name: Jennifer Beaver
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  jenleebeaver
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
