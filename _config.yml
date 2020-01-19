@@ -1,11 +1,11 @@
 # Site settings
-author: Jennifer Beaver
-title: 
+author: Jennifer Beaver 
+title: Web Development for Dummies: Diary of a Coding Newbie
 header-img: img/home-bg.png
 email: jen.lee.beaver@gmail.com
-copyright_name: Jennifer Beaver
+copyright_name: Jennifer Beaver 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Challenges on Challenges 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jenleebeaver
