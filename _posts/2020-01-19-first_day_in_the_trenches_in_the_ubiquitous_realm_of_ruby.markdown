@@ -1,14 +1,10 @@
 ---
 layout: post
-title:      "First Day In The Trenches In The Ubiquitous Realm of Ruby"
-date:       2020-01-19 08:23:06 +0000
+title:      "First Day In The Trenches "
+date:       2020-01-19 03:23:07 -0500
 permalink:  first_day_in_the_trenches_in_the_ubiquitous_realm_of_ruby
 ---
 
-
-**Waxing Philosophic on Programming **
-
-*Ruby its everywhere! In your phone ... on your computer ... how will you ever escape! *
 
 Gearing up for the beginning of the Flatiron Part Time Online Program and very excited for the challenges this year has to offer.  Already finding many (which is a more humbling type of excitement), however looking forward to becoming a conditioning queen! 
 
