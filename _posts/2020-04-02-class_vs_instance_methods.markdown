@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Class VS Instance Methods "
-date:       2020-04-02 12:35:36 +0000
+date:       2020-04-02 08:35:37 -0400
 permalink:  class_vs_instance_methods
 ---
 
 
-If you google the above the first thing that will come up is: 
+If you google the above the first thing that will come up is - 
 
 "In Ruby, a method provides functionality to an Object.  A class method provides functionality to a class itself, while an instance method provides functionality to one Instance of a class."
 
